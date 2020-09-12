@@ -1,4 +1,4 @@
-use java
+use javascript EXT= (.js)
 run();
 check err;
 if err found = stop();
