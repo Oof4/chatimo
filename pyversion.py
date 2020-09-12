@@ -2,4 +2,4 @@ If Recent>>  = False;
 use .py
 use commit files();
 end;
-run.py();
+run.py>> FILE >> pyversion.py();
