@@ -1,0 +1,15 @@
+debug();
+if failure = end;
+end();
+reset();
+args = 2
+complete args();
+args = restart(); run();
+finish();
+else;
+restartinf();
+inf();
+brake();
+stop();
+resetalldata();
+run();
