@@ -1,7 +1,7 @@
 # Chatimo Free Text Chat And Calls
 
 ![Platform](https://img.shields.io/badge/platform-JAVASCRIPT-orange.svg)
-![Languages](https://img.shields.io/badge/language-JAVASCRIPT-orange.svg)
+![For Javascript](https://img.shields.io/badge/language-JAVASCRIPT-orange.svg)
 
 ## Introduction
 
