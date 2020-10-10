@@ -1,4 +1,4 @@
-# Sendbird Calls for JavaScript Quickstart
+# Chatimo Free Text Chat And Calls
 
 ![Platform](https://img.shields.io/badge/platform-JAVASCRIPT-orange.svg)
 ![Languages](https://img.shields.io/badge/language-JAVASCRIPT-orange.svg)
