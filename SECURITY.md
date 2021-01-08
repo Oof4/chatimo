@@ -4,14 +4,10 @@
 
 Supported versions are noted here.
 
-| Version | Supported          |
+| Version | Supported | How supported       |
 | ------- | ------------------ |
-|  5.3x   | :white_check_mark:|
-| 5.2 (paritally supported)| :white_check_mark:|
-| 5.1.x   | :x: |
-| 5.0.x   | :x:                |
-| 1.0.0 (dev tools)| :white_check_mark:|
-| 1.0.0   | :white_check_mark:                |
+| 1.0.0 (dev tools)| :white_check_mark:| |Fully
+| 1.0.0   | :white_check_mark:  | | Fully
 
 ## Report a Vulnerability
 
