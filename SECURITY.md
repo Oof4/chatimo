@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Supported versions are noted here.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -11,13 +10,9 @@ currently being supported with security updates.
 | 5.2 (paritally supported)| :white_check_mark:|
 | 5.1.x   | :x: |
 | 5.0.x   | :x:                |
-| 4.0.x   | :x: |
-| < 4.0   | :x:                |
+| 1.0.0 (dev tools) :white_check_mark:|
+| 1.0.0   | :x:                |
 
-## Reporting a Vulnerability
+## Report a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+To report a vulnerability about anything, please state it in issues.
