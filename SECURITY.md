@@ -8,9 +8,9 @@ Supported versions are noted here.
 | ------- | ------------------ |-----------------|
 | 1.0.4x  | :question:           |Pre-release, no support
 | 1.0.3x  | :white_check_mark:           |Fully supported
-| 1.0.2x  | :white_check_mark:           |Not supported
-| 1.0.1x  | :white_check_mark:           |Not supported
-| 1.0.0x  | :white_check_mark:           |Not supported
+| 1.0.2x  | :x:           |Not supported
+| 1.0.1x  | :x:           |Not supported
+| 1.0.0x  | :x:           |Not supported
 
 ## Report a Vulnerability
 
