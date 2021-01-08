@@ -5,7 +5,7 @@
 Supported versions are noted here.
 
 | Version | Supported |        How supported|
-| ------- | ------------------ |------------|
+| ------- | ------------------ |-----------------|
 | 1.0.0x (dev tools)| :white_check_mark:| |Fully
 | 1.0.0x  | :white_check_mark:           |Fully
 
