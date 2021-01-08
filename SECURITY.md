@@ -11,7 +11,7 @@ Supported versions are noted here.
 | 5.1.x   | :x: |
 | 5.0.x   | :x:                |
 | 1.0.0 (dev tools)| :white_check_mark:|
-| 1.0.0   | :x:                |
+| 1.0.0   | :white_check_mark:                |
 
 ## Report a Vulnerability
 
