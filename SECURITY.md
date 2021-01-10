@@ -12,21 +12,21 @@ Supported versions are noted here.
 | 1.2.2x  | ➡️           |Skipped
 | 1.2.1x  | ➡️           |Skipped
 | 1.2.0x  | ➡️          |Skipped
-| 1.1.9x  | :x:           |Skipped
-| 1.1.8x  | :x:           |Skipped
-| 1.1.7x  | :x:           |Skipped
-| 1.1.6x  | :x:           |Skipped
-| 1.1.5x  | :x:           |Skipped
-| 1.1.4x  | :x:           |Skipped
-| 1.1.3x  | :x:           |Skipped
-| 1.1.2x  | :x:           |Skipped
-| 1.1.1x  | :x:           |Skipped
-| 1.1.0x  | :x:           |Skipped
-| 1.0.9x  | :x:           |Skipped
-| 1.0.8x  | :x:           |Skipped
-| 1.0.7x  | :x:           |Skipped
-| 1.0.6x  | :x:           |Skipped
-| 1.0.5x  | :x:           |Skipped
+| 1.1.9x  | ➡️          |Skipped
+| 1.1.8x  | ➡️           |Skipped
+| 1.1.7x  | ➡️          |Skipped
+| 1.1.6x  | ➡️           |Skipped
+| 1.1.5x  | ➡️        |Skipped
+| 1.1.4x  | ➡️           |Skipped
+| 1.1.3x  | ➡️           |Skipped
+| 1.1.2x  | ➡️           |Skipped
+| 1.1.1x  | ➡️           |Skipped
+| 1.1.0x  | ➡️           |Skipped
+| 1.0.9x  | ➡️           |Skipped
+| 1.0.8x  | ➡️           |Skipped
+| 1.0.7x  | ➡️           |Skipped
+| 1.0.6x  | ➡️          |Skipped
+| 1.0.5x  | ➡️           |Skipped
 | 1.0.4x  | :x:           | Not supported
 | 1.0.3x  | :x:           | Not supported
 | 1.0.2x  | :x:           |Not supported
