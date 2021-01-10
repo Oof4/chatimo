@@ -7,11 +7,11 @@ Supported versions are noted here.
 | Version | Supported |        How supported|
 | ------- | ------------------ |-----------------|
 | 1.2.5x  | :white_check_mark:  |Fully supported
-| 1.2.4x  | :x:           |Skipped
-| 1.2.3x  | :x:           |Skipped
-| 1.2.2x  | :x:           |Skipped
-| 1.2.1x  | :x:           |Skipped
-| 1.2.0x  | :x:           |Skipped
+| 1.2.4x  | ➡️           |Skipped
+| 1.2.3x  | ➡️           |Skipped
+| 1.2.2x  | ➡️           |Skipped
+| 1.2.1x  | ➡️           |Skipped
+| 1.2.0x  | ➡️          |Skipped
 | 1.1.9x  | :x:           |Skipped
 | 1.1.8x  | :x:           |Skipped
 | 1.1.7x  | :x:           |Skipped
