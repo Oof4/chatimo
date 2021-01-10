@@ -5,6 +5,11 @@ const port = 9000;
 app.use(express.static('dist'));
 app.use(express.static('./'));
 
+app.get(
+   "/api/method", 
+   authenticationMiddleware,
+   rateLimitErrors(handler)   # <-- ???
+)
 app.get('/', (req, res) => {
   res.sendfile('index.html');
 });
