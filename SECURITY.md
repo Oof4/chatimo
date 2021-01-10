@@ -6,7 +6,7 @@ Supported versions are noted here.
 
 | Version | Supported |        How supported|
 | ------- | ------------------ |-----------------|
-| 1.0.4x  | :question:           |Pre-release, no support
+| 1.0.4x  | :question:           | Fully supported
 | 1.0.3x  | :white_check_mark:           |Fully supported
 | 1.0.2x  | :x:           |Not supported
 | 1.0.1x  | :x:           |Not supported
