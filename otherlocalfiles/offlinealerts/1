@@ -1,0 +1,13 @@
+var check
+check = offlinecheck
+module.exports = {
+name: offline alert
+type: 1
+activatewhen: offline
+}
+define offline when
+check all;
+check all connections;
+activatewhen offline;
+wait(5);
+end;
