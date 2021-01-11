@@ -1,5 +1,3 @@
-# Chatimo Free Text Chat And Calls
+# Notice
 
- Chatimo is a free text + calls app.
- 
- This program gets updates very quickly from now.
+When you try to download all the other versions that aren't supported, you'll end up getting the newer version of files.
