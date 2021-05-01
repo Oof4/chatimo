@@ -1,0 +1,12 @@
+DataFetch v1.0.0
+Logged console actions that will operate if not already operated
+Starting at d;
+
+d;
+log.console.app.chatimo
+execute.console.commands
+/;below\
+load %userdata%
+if no %userdata%= mkdir %userdata%
+finish.operation.all
+end.all.operations
